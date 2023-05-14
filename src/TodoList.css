@@ -1,0 +1,16 @@
+.todo-list {
+    border: 1px solid gray;
+    height: 300px;
+    max-width: 550px;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+
+.todo-list > input {
+    width: 300px;
+    height: 40px;
+    border: 1px solid rgb(213, 204, 204);
+    font-size: 18px;
+    color: rgb(213, 204, 204);
+}
+
