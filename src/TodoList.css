@@ -1,5 +1,5 @@
 .todo-list {
-    border: 1px solid gray;
+    border: 2px solid #8080806b;
     height: 300px;
     max-width: 550px;
     margin: 0 auto;
@@ -11,6 +11,12 @@
     height: 40px;
     border: 1px solid rgb(213, 204, 204);
     font-size: 18px;
+    
+}
+
+
+
+.todo-list > input::placeholder {
     color: rgb(213, 204, 204);
 }
 
